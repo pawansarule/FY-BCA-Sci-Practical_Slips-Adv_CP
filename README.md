@@ -139,10 +139,10 @@ alphabetical order of stud_name and display the data.
 mark3. Calculate the total and average of marks using structure.
 8. Write a menu driven program in ‘C’ that shows the working of a library. The menu
 option should be
-a. Add book information.
-b. Display book information.
-c. List all books of given author.
-d. Exit.
+ i. Add book information.
+ ii. Display book information.
+ iii. List all books of given author.
+ iv. Exit.
 9. Write C Program to accept n records of student information (sno, sname, marks) and
 display record of students having maximum marks.
 10. Write a ‘C’ program to accept the book details such as BookID, Title, Author, Price.
