@@ -71,7 +71,7 @@ All the practical divided into 5 section i.e
 22. Write a menu driven program to perform following operations on strings by using standard library functions.
   i. Read 2 Strings
   ii. Display Strings
-  iii.Copy
+  iii. Copy
   iv. Compare
   v. Concatenate
 23. Write C program to accept a string and count number of vowels.
@@ -97,10 +97,10 @@ pointers.
 6. Write C program to create a student structure having fields roll_no, stud_name and address. Accept the details of ‘n’ students into the structure, rearrange the data in alphabetical order of stud_name and display the data.
 7. Write C program to accept n student details like roll_no, stud_name, mark1, mark2, mark3. Calculate the total and average of marks using structure.
 8. Write a menu driven program in ‘C’ that shows the working of a library. The menu option should be
- i. Add book information.
- ii. Display book information.
- iii. List all books of given author.
- iv. Exit.
+ i. Add book information
+ ii. Display book information
+ iii. List all books of given author
+ iv. Exit
 9. Write C Program to accept n records of student information (sno, sname, marks) and display record of students having maximum marks.
 10. Write a ‘C’ program to accept the book details such as BookID, Title, Author, Price. Read the details of n number of books. Display the details of those books which are priced below Rs.100.
 11. Write C program to accept teacher information (teacher_id, name, qualification, salary) and display same information using structure.
