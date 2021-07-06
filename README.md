@@ -16,14 +16,11 @@ All the practical divided into 5 section i.e
 2. Write C program to find cube of number using nested macros.
 3. Write C program to check given number is even or odd using macros.
 4. Write C program to find minimum of two numbers using macros.
-5. Write a macro CALC that will compute the circumference of a circle. Using
-this macro find the circumference for the given radius.
-6. Write C Program to check whether a number is positive, negative or zero
-using macros.
+5. Write a macro CALC that will compute the circumference of a circle. Using this macro find the circumference for the given radius.
+6. Write C Program to check whether a number is positive, negative or zero using macros.
 7. Write C Program to find minimum of three numbers using nested macros.
 8. Write C program to find square of number using macro.
-9. Write a macro that will generate the code to make the sum of given3
-integers.
+9. Write a macro that will generate the code to make the sum of given3 integers.
 
 ## Pointer
 
@@ -31,25 +28,16 @@ integers.
 2. Write C program to find sum of n numbers using dynamic allocation method.
 3. Write C program to interchange values of two numbers using pointers.
 4. Write C program to accept a matrix of size 3x3 and print the same using pointer.
-5. Write C program to accept a matrix of size 3x3 and print transpose of the matrix
-using pointer.
+5. Write C program to accept a matrix of size 3x3 and print transpose of the matrix using pointer.
 6. Write C program to multiply two numbers using function pointer.
-7. Write C program to check whether a given string is palindrome or not using user
-defined function and pointers.
-8. Write C Program to accept n numbers using dynamic allocation method and display
-maximum and minimum of them.
-9. Write C program to read ‘n’ numbers using dynamic memory allocation and sort
-numbers using ascending order.
-10. Write a program to find sum and average of n elements entered by user. To perform
-this, allocate memory dynamically using calloc() function.
-11. Write C Program that will find first occurrence of character using user defined
-function and pointers.
-12. Write C Program to accept novel information (novelid, novelname, and price) and
-display it using pointers and user defined function.
-13. Write C Program that will dynamically allocate the memory for an integer, float and
-character. Read values in it and display them.
-14. Write a ‘C’ program to read n integers in an array. Display the contents of an array
-by using pointer and pointer arithmetic.
+7. Write C program to check whether a given string is palindrome or not using user defined function and pointers.
+8. Write C Program to accept n numbers using dynamic allocation method and display maximum and minimum of them.
+9. Write C program to read ‘n’ numbers using dynamic memory allocation and sort numbers using ascending order.
+10. Write a program to find sum and average of n elements entered by user. To perform this, allocate memory dynamically using calloc() function.
+11. Write C Program that will find first occurrence of character using user defined function and pointers.
+12. Write C Program to accept novel information (novelid, novelname, and price) and display it using pointers and user defined function.
+13. Write C Program that will dynamically allocate the memory for an integer, float and character. Read values in it and display them.
+14. Write a ‘C’ program to read n integers in an array. Display the contents of an array by using pointer and pointer arithmetic.
 15. Write C program that will read n numbers using dynamic allocation method and display sum and average of numbers.
 
 ## String
