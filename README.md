@@ -1,6 +1,6 @@
 # FY-BCA-Sci-Practical_Slips-Adv_CP
 
-This repository contens the Practical slips solution of FY BCA(Sci) Sem-1 2019 Credit Pattern of Programming in C By Savitribai Phule Pune University
+This repository contens the Practical slips solution of FY BCA(Sci) Sem-2 2019 Credit Pattern of Advanced C Programming By Savitribai Phule Pune University
 
 All the practical divided into 5 section i.e
  1) Pre-Processor
