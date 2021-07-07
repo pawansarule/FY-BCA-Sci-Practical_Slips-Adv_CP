@@ -80,20 +80,17 @@ All the practical divided into 5 section i.e
 ## Command Line arguments
 
 1. Write C program to display arguments and count of arguments passed through command line.
-2. Write C program to accept three integers as command line arguments and find the minimum, maximum and average of the three numbers. Display error message if the
-number of arguments entered are invalid.
+2. Write C program to accept three integers as command line arguments and find the minimum, maximum and average of the three numbers. Display error message if the number of arguments entered are invalid.
 3. Write C program to calculate the factorial of number by using the command line argument.
 4. Write C program to display maximum of three numbers using command line arguments.
 
 ## Structure
 
 1. Write C Program to accept n records of employee information (eno, ename, salary) and display record of employees having maximum salary.
-2. Write C Program to accept book information (book_id, book_name, book_author). Read the details of n number of books. Display book details in ascending order of
-book name.
+2. Write C Program to accept book information (book_id, book_name, book_author). Read the details of n number of books. Display book details in ascending order of book name.
 3. Write C program to accept student information (rollno, name, marks) and display same information using structure.
 4. Write C program to store n players details (id, name, no_of_runs, no_of_wickets, average) and display player name scoring maximum number of runs.
-5. Write C program to create employee having fields emp_id, emp_name, designation. Pass this entire structure to function and display the structure elements using
-pointers.
+5. Write C program to create employee having fields emp_id, emp_name, designation. Pass this entire structure to function and display the structure elements using pointers.
 6. Write C program to create a student structure having fields roll_no, stud_name and address. Accept the details of ‘n’ students into the structure, rearrange the data in alphabetical order of stud_name and display the data.
 7. Write C program to accept n student details like roll_no, stud_name, mark1, mark2, mark3. Calculate the total and average of marks using structure.
 8. Write a menu driven program in ‘C’ that shows the working of a library. The menu option should be
