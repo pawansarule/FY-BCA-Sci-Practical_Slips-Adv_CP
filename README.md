@@ -6,7 +6,7 @@ All the practical divided into 5 section i.e
  1) Pre-Processor
  2) Pointer
  3) String
- 4) Command Line arguments
+ 4) Command Line Arguments
  5) Structure
 
 
@@ -77,7 +77,7 @@ All the practical divided into 5 section i.e
 23. Write C program to accept a string and count number of vowels.
 24. Write C program to accept an array and a number. Check whether the number is present in the array, print the index number of the all occurrence of that number.
 
-## Command Line arguments
+## Command Line Arguments
 
 1. Write C program to display arguments and count of arguments passed through command line.
 2. Write C program to accept three integers as command line arguments and find the minimum, maximum and average of the three numbers. Display error message if the number of arguments entered are invalid.
